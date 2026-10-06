@@ -154,10 +154,10 @@ ctx.release();
 ## 项目结构
 
 MemoryLinkGraphStoreGpuBridge/
-├── mlgsgb-core/                 # 纯库模块
+├── mlgsgb-core/                 
 │   └── src/main/java/...
 │       └── memorylinkgraphstoregpubridge/
-│           ├── MLGSGB.java              # 统一门面
+│           ├── MLGSGB.java              
 │           ├── MemoryLink.java          # 内存连接
 │           ├── GraphStore.java          # 图形存储
 │           ├── GpuBridge.java           # GPU 调用
